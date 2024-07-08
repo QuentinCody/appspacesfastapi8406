@@ -7,7 +7,7 @@ on:
     branches: 
       [ main ]
     paths:
-    - '//**'
+    - '**'
     - '.github/workflows/payvenlivedemo9190afb7-AutoDeployTrigger-891f9d4d-d802-42c4-b47c-b0db5f08659c.yml'
 
   # Allow manual trigger 
