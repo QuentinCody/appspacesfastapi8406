@@ -9,4 +9,4 @@ async def read_root():
 
 @app.get("/transactions/daily-totals")
 async def get_transactions_with_details_test():
-    return {"message": "2nd API endpoint works!"}
+    return {"message": "getting the 2nd API endpoint to work!"}
